@@ -1,0 +1,7 @@
+{
+  "name": "Davimar Group - Meta Ads B2B Analytics & Strategy Dashboard",
+  "description": "Estudio analítico de métricas orgánicas y marco de medición publicitaria para @davimargroup: comparativa de rendimiento, retención de video, demografía B2B y arquitectura de campañas Meta Ads.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
